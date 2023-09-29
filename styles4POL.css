@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	background-color: rgb(63, 9, 9);
+}
+#headbar{
+	background-color: rgba(100, 197, 176, 0.938);
+	padding-top: 15px;
+	padding-left: 2%;
+	margin: -7.6px -0.3em 44px;
+	line-height: 3em;
+	letter-spacing: 0.1em;
+	font: bolder 5em papyrus;
+	border-bottom: 0.1in solid midnightblue;
+	border-top: 0.1in solid midnightblue;
+}
+.links{
+	font-size: 2em;
+	border:3px solid rgba(38, 40, 51, 0.87);
+	background-color:honeydew;
+	padding:3% ;
+	margin: auto 0.1em;
+	color: darkblue;
+}
+.headers{
+	font: italic bold 350% cursive;
+	color: rgb(79, 158, 158);
+}
